@@ -1,4 +1,5 @@
-# WebPractice_05
+# WebPractice_05_todolist
+
 Udemy course practice project.
 
 https://johnpantswork-wepractice-todolistproject.netlify.app/
